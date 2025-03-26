@@ -30,7 +30,7 @@ DevOps & Cloud Engineering professional with 15+ years of IT infrastructure expe
 - Built and maintained CI/CD pipelines through Jenkins
 - Worked with OpenStack Nova, Swift, Glance and Trove
 
-## 🎓 Certifications
+## 🎓 Certs/History
 - AWS Solutions Architect (2019)
 - Red Hat Certified Engineer (RHCE) (2013)
 - Red Hat Certified System Administrator (RHCSA) (2012)
