@@ -36,14 +36,5 @@ DevOps & Cloud Engineering professional with 15+ years of IT infrastructure expe
 - Red Hat Certified System Administrator (RHCSA) (2012)
 - CompTIA A+/Network+ (2005/2007)
 
-## 🚀 Featured Projects
-<!-- You can add your GitHub projects here -->
-- **[Project Name](GitHub Repo Link)**: Brief description of the project
-- **[Project Name](GitHub Repo Link)**: Brief description of the project
-
 ## 📫 How to Reach Me
-- LinkedIn: [mattkmartinez](https://linkedin.com/in/mattkmartinez)
-- Location: San Antonio, TX
-
-## 📄 Detailed Experience
 For my complete work history and experience, please connect with me on [LinkedIn](https://linkedin.com/in/mattkmartinez).
