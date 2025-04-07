@@ -1,17 +1,17 @@
-# Hello, I'm Matt (He/Him) 👋
+# Hello, I'm Matt
 
 ## 💼 Professional Summary
 DevOps & Cloud Engineering professional with 15+ years of IT infrastructure experience. Specialized in AWS architecture, cloud migration, and infrastructure automation. Passionate about building scalable, reliable, and secure systems with infrastructure as code and DevOps best practices.
 
 ## 🛠️ Skills & Technologies
-- **Cloud Platforms**: AWS, GCP, Rackspace
+- **Cloud Platforms**: AWS, GCP 
 - **Infrastructure as Code**: CloudFormation, Terraform/Terragrunt, Ansible, Chef, Puppet
 - **CI/CD & Containers**: GitHub, Jenkins, CodeDeploy, Kubernetes, Docker
 - **Operating Systems**: Linux (RHEL, Ubuntu, Debian, Amazon Linux)
-- **Monitoring & Observability**: Grafana, Kibana, Nagios XI, Sensu
+- **Monitoring & Observability**: Grafana, Kibana, Nagios XI, Prometheus
 - **Scripting & Automation**: Bash, Python, awscli, kubectl
 - **Databases**: MySQL, Redis, RocksDB
-- **Collaboration Tools**: Jira, ServiceNow, Zendesk, Confluence, OpsGenie
+- **Collaboration Tools**: Jira, ServiceNow, Zendesk, Confluence
 
 ## 👨‍💻 Work Experience
 **Senior DevOps Engineer** | *NODE40 Inc* | Sept 2021 - Present
