@@ -12,10 +12,10 @@ architect → automate → disappear.
 - docs that answer the question before slack can ping me
 
 ## ❖ now  
-senior engineer — full‑stack platform ownership @ a fintech
+senior engineer: full‑stack platform ownership @ a fintech
 
 ## ❖ before  
-cloud engineering & large‑scale support — built patterns still running
+cloud engineering & large‑scale support: built patterns still running
 
 ## ❖ origin  
 linux boxes, pager duty, certs. automated forward, never looked back.
