@@ -2,7 +2,7 @@
 
 ## ❖ about  
 i keep critical systems online and inexpensive.  
-architect → automate → disappear.
+architect → automate → fade into reliability
 
 ## ❖ what i do  
 - terraform or yaml everything, button‑click nothing  
