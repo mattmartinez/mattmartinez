@@ -14,7 +14,7 @@ lately: building agentic workflows and ops tooling that replace manual clicky cl
 - pipelines that roll forward, never sideways
 - dashboards that warn before users notice
 - cost controls that pay for themselves
-- agentic automation — AI ops partners, not chatbots
+- agentic automation, AI ops partners, not chatbots
 
 ## ◆ building
 
@@ -31,7 +31,7 @@ nights: shipping internal tools for a business i run.
 
 ## ◆ before
 
-10 years engineering @ Rackspace — bare metal to openstack to the clouds across 6 regions.
+10 years engineering @ Rackspace - bare metal to openstack to the clouds across 6 regions.
 built patterns still running. broke things that taught me more.
 
 ## ◆ origin
