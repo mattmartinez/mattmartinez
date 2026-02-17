@@ -26,12 +26,12 @@ side projects nobody asked for:
 
 ## ◆ now
 
-senior engineer: full-stack platform ownership @ a fintech.
+senior engineer: full-stack platform ownership @ a fintech.  
 nights: shipping internal tools for a business i run.
 
 ## ◆ before
 
-10 years engineering @ Rackspace - bare metal to openstack to the clouds across 6 regions.
+10 years engineering @ Rackspace - bare metal to openstack to the clouds across 6 regions.  
 built patterns still running. broke things that taught me more.
 
 ## ◆ origin
