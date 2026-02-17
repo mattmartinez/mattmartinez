@@ -2,9 +2,10 @@
 
 ## ◆ about
 
-i keep critical systems online and inexpensive.··
-architect → automate → fade into reliability.··
+i keep critical systems online and inexpensive.  
+architect → automate → fade into reliability.  
 lately: building agentic workflows and ops tooling that replace manual clicky clicky.
+
 
 
 ## ◆ what i do
